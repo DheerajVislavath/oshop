@@ -1,0 +1,11 @@
+.container {
+    padding-top: 80px;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
+
+.dropdown-toggle {
+    cursor: pointer;
+}

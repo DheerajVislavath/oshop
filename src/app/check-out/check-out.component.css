@@ -1,0 +1,7 @@
+hr {
+    color: rgba(163, 49, 49, 0);
+    border-color: #fcfcfc00 -moz-use-text-color rgba(240, 225, 225, 0);
+    border-style: solid none;
+    border-width: 1px 0;
+    margin: 18px 0;  
+}
